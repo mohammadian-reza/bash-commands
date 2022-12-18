@@ -1,0 +1,1 @@
+Simple example for syntax of Bash
